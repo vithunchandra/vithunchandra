@@ -1,6 +1,7 @@
 # 💫Hi, There
-Computer Science student at Institut Sains dan Teknologi Terpadu Surabaya</br>
-I’m a distinct graduate of Bangkit program led by Google and GoTo</br>
+My name is Vristian Vlasdityo Vithun Chandra, just call me Vithun</br>
+I'm a Computer Science student at Institut Sains dan Teknologi Terpadu Surabaya</br>
+I’m also a graduate of Bangkit program led by Google and GoTo</br>
 I’m Currently learning Android mobile development using Kotlin</br>
 
 ## 🌐Socials
