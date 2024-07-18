@@ -1,7 +1,7 @@
-# 💫About Me :
-Computer Science student at Institut Sains dan Teknologi Terpadu Surabaya
-I’m a distinct graduate of Bangkit program led by Google and GoTo
-I’m Currently learning Android mobile development using Kotlin
+# 💫Hi, There
+Computer Science student at Institut Sains dan Teknologi Terpadu Surabaya</br>
+I’m a distinct graduate of Bangkit program led by Google and GoTo</br>
+I’m Currently learning Android mobile development using Kotlin</br>
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vithunchandra) 
