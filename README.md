@@ -1,8 +1,7 @@
 # 💫Hi, There
 My name is Vristian Vlasdityo Vithun Chandra, just call me Vithun</br>
-I'm a Computer Science student at Institut Sains dan Teknologi Terpadu Surabaya</br>
+Alumni at Institut Sains dan Teknologi Terpadu Surabaya</br>
 I’m also a graduate of Bangkit program led by Google and GoTo</br>
-I’m Currently learning Android mobile development using Kotlin</br>
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vithun-chandra-28b28520a) 
