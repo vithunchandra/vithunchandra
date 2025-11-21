@@ -1,6 +1,6 @@
 # 💫Hi, There
 My name is Vristian Vlasdityo Vithun Chandra, just call me Vithun</br>
-Alumni at Institut Sains dan Teknologi Terpadu Surabaya</br>
+Alumnus at Institut Sains dan Teknologi Terpadu Surabaya</br>
 I’m also a graduate of Bangkit program led by Google and GoTo</br>
 
 ## 🌐Socials
